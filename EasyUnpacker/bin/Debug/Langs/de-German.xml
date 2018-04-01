@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Language File by: He@dkillah-->
+<strings>
+  <string id="0">1.0.0</string>
+  <string id="1">Sprache ändern</string>
+  <string id="2">Ausgewählte Sprache:</string>
+  <string id="4">Suchpfade</string>
+  <string id="5">Extrahier Einstellungen</string>
+  <string id="6">Pfad hinzufügen</string>
+  <string id="7">Pfad entfernen</string>
+  <string id="8">Zielordner</string>
+  <string id="9">Archive suchen</string>
+  <string id="10">Entpacken</string>
+  <string id="11">Abbruch</string>
+  <string id="12">Wie Archivordner</string>
+  <string id="13">Entpacke ganzen Pfad</string>
+  <string id="14">Überschreiben</string>
+  <string id="15">Archiv-Liste</string>
+  <string id="16">Extrahier Informationen</string>
+  <string id="17">Aktuelles Archiv:</string>
+  <string id="18">Entpacke Volume:</string>
+  <string id="19">Aktueller Eintrag:</string>
+  <string id="20">Größe komprimiert:</string>
+  <string id="21">Größe gesamt:</string>
+  <string id="22">Archive entpackt:</string>
+  <string id="23">Fortschritt:</string>
+  <string id="24">Suchpfad hinzugefügt:</string>
+  <string id="25">Pfad existiert schon!</string>
+  <string id="26">Operation abgebrochen</string>
+  <string id="27">"Pfad "</string>
+  <string id="28"> nicht verfügbar"</string>
+  <string id="29">Archiv(e) gefunden: </string>
+  <string id="30"> aktiviert.</string>
+  <string id="31"> deaktiviert.</string>
+  <string id="32">Dateien im Archivordner entpacken</string>
+  <string id="33">Datei</string>
+  <string id="34">existiert</string>
+  <string id="35">Neuer Name:</string>
+  <string id="36">kann nicht entpackt werden</string>
+  <string id="37">Einstellungen: Deserialize Fehler!</string>
+  <string id="38">Einstellungen: Erfolgreich geladen</string>
+  <string id="39">Suchpfad entfernt:</string>
+  <string id="40">Abbruch nach laufendem Entpackvorgang!</string>
+  <string id="41">Angehalten</string>
+  <string id="42">Fortgesetzt</string>
+  <string id="43">Pause</string>
+  <string id="44">Weiter</string>
+  <string id="45">Entpacken beendet:</string>
+  <string id="46">Entpacke Eintrag:</string>
+  <string id="47">Sprachdatei Version: %ACTVER%</string>
+  <string id="48">\nBenötigte Version: %REQVER%\n\n</string>
+  <string id="49">Evtl. werden einige Texte nicht oder nicht richtig angezeigt.\n\nTrotzdem starten?</string>
+</strings>

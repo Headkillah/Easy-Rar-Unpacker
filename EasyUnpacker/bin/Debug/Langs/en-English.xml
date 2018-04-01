@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Language File by: He@dkillah-->
+<strings>
+  <string id="0">1.0.0</string>
+  <string id="1">Change Language</string>
+  <string id="2">Selected Language:</string>
+  <string id="4">Search Path</string>
+  <string id="5">Extract Options</string>
+  <string id="6">Add Path</string>
+  <string id="7">Remove Path</string>
+  <string id="8">Destination</string>
+  <string id="9">Scan Archives</string>
+  <string id="10">Extract</string>
+  <string id="11">Cancel</string>
+  <string id="12">Same as Archive</string>
+  <string id="13">Extract Full Path</string>
+  <string id="14">Overwrite</string>
+  <string id="15">Archives List</string>
+  <string id="16">Extract Informations</string>
+  <string id="17">Processing Archive:</string>
+  <string id="18">Extracting Volume:</string>
+  <string id="19">Processing Entry:</string>
+  <string id="20">Compressed Size:</string>
+  <string id="21">Full Size:</string>
+  <string id="22">Archives extracted:</string>
+  <string id="23">Progress:</string>
+  <string id="24">Added search path:</string>
+  <string id="25">Path already exists!</string>
+  <string id="26">Operation cancelled</string>
+  <string id="27">"Path "</string>
+  <string id="28">not available"</string>
+  <string id="29">Archive(s) found: </string>
+  <string id="30"> activated.</string>
+  <string id="31"> deactivated.</string>
+  <string id="32">Extract Files to same as Archive</string>
+  <string id="33">File</string>
+  <string id="34">exists</string>
+  <string id="35">New Name:</string>
+  <string id="36">can´t be extracted</string>
+  <string id="37">Preferences: Deserialize Error!</string>
+  <string id="38">Preferences: Successfully loaded</string>
+  <string id="39">Removed search path:</string>
+  <string id="40">Extraction will be cancelled after current operation!</string>
+  <string id="41">paused</string>
+  <string id="42">resumed</string>
+  <string id="43">Pause</string>
+  <string id="44">Resume</string>
+  <string id="45">Extraction done:</string>
+  <string id="46">Extracting entry:</string>
+  <string id="47">Language-File Version: %ACTVER%</string>
+  <string id="48">\nNeeded Version: %REQVER%\n\n</string>
+  <string id="49">Possibly some texts are not displayed or not displayed correctly.\n\nNevertheless start?</string>
+</strings>
