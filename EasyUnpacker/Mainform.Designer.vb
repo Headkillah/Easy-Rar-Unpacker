@@ -49,6 +49,7 @@ Partial Class Mainform
         Me.grpLog = New System.Windows.Forms.GroupBox()
         Me.grpArcInf = New System.Windows.Forms.GroupBox()
         Me.Label4 = New System.Windows.Forms.Label()
+        Me.pbArchiveProgress = New EasyUnpacker.CustomProgressBar()
         Me.lblVolume = New System.Windows.Forms.Label()
         Me.Label7 = New System.Windows.Forms.Label()
         Me.grpScanFolders = New System.Windows.Forms.GroupBox()
@@ -63,7 +64,7 @@ Partial Class Mainform
         Me.BindingSourceArchives = New System.Windows.Forms.BindingSource(Me.components)
         Me.MenuStrip1 = New System.Windows.Forms.MenuStrip()
         Me.mnuChangeLang = New System.Windows.Forms.ToolStripMenuItem()
-        Me.pbArchiveProgress = New EasyUnpacker.CustomProgressBar()
+        Me.Process1 = New System.Diagnostics.Process()
         Me.ContextMenuStrip1.SuspendLayout()
         Me.grpLog.SuspendLayout()
         Me.grpArcInf.SuspendLayout()
@@ -312,6 +313,14 @@ Partial Class Mainform
         Me.Label4.TabIndex = 42
         Me.Label4.Text = "Extraction Status:"
         '
+        'pbArchiveProgress
+        '
+        Me.pbArchiveProgress.ForeColor = System.Drawing.Color.AliceBlue
+        Me.pbArchiveProgress.Location = New System.Drawing.Point(151, 197)
+        Me.pbArchiveProgress.Name = "pbArchiveProgress"
+        Me.pbArchiveProgress.Size = New System.Drawing.Size(242, 17)
+        Me.pbArchiveProgress.TabIndex = 41
+        '
         'lblVolume
         '
         Me.lblVolume.AutoSize = True
@@ -450,13 +459,15 @@ Partial Class Mainform
         Me.mnuChangeLang.Size = New System.Drawing.Size(115, 20)
         Me.mnuChangeLang.Text = "Change Language"
         '
-        'pbArchiveProgress
+        'Process1
         '
-        Me.pbArchiveProgress.ForeColor = System.Drawing.Color.AliceBlue
-        Me.pbArchiveProgress.Location = New System.Drawing.Point(151, 197)
-        Me.pbArchiveProgress.Name = "pbArchiveProgress"
-        Me.pbArchiveProgress.Size = New System.Drawing.Size(242, 17)
-        Me.pbArchiveProgress.TabIndex = 41
+        Me.Process1.StartInfo.Domain = ""
+        Me.Process1.StartInfo.LoadUserProfile = False
+        Me.Process1.StartInfo.Password = Nothing
+        Me.Process1.StartInfo.StandardErrorEncoding = Nothing
+        Me.Process1.StartInfo.StandardOutputEncoding = Nothing
+        Me.Process1.StartInfo.UserName = ""
+        Me.Process1.SynchronizingObject = Me
         '
         'Mainform
         '
@@ -532,4 +543,5 @@ Partial Class Mainform
     Friend WithEvents RmvArchive As ToolStripMenuItem
     Friend WithEvents MenuStrip1 As MenuStrip
     Friend WithEvents mnuChangeLang As ToolStripMenuItem
+    Friend WithEvents Process1 As Process
 End Class

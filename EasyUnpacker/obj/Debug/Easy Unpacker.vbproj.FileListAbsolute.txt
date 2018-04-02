@@ -43,3 +43,19 @@ d:\-= VISUAL BASIC =-\-= PROJEKTE =-\-= NEU =-\Easy Unpacker\EasyUnpacker\bin\De
 d:\-= VISUAL BASIC =-\-= PROJEKTE =-\-= NEU =-\Easy Unpacker\EasyUnpacker\obj\Debug\Easy Rar Unpacker.exe
 d:\-= VISUAL BASIC =-\-= PROJEKTE =-\-= NEU =-\Easy Unpacker\EasyUnpacker\obj\Debug\Easy Rar Unpacker.xml
 d:\-= VISUAL BASIC =-\-= PROJEKTE =-\-= NEU =-\Easy Unpacker\EasyUnpacker\obj\Debug\Easy Rar Unpacker.pdb
+D:\-= VISUAL BASIC =-\-= PROJEKTE =-\-= NEU =-\Easy Unpacker\Easy-Rar-Unpacker\EasyUnpacker\bin\Debug\Easy Rar Unpacker.exe.config
+D:\-= VISUAL BASIC =-\-= PROJEKTE =-\-= NEU =-\Easy Unpacker\Easy-Rar-Unpacker\EasyUnpacker\bin\Debug\Easy Rar Unpacker.exe
+D:\-= VISUAL BASIC =-\-= PROJEKTE =-\-= NEU =-\Easy Unpacker\Easy-Rar-Unpacker\EasyUnpacker\bin\Debug\Easy Rar Unpacker.pdb
+D:\-= VISUAL BASIC =-\-= PROJEKTE =-\-= NEU =-\Easy Unpacker\Easy-Rar-Unpacker\EasyUnpacker\bin\Debug\Easy Rar Unpacker.xml
+D:\-= VISUAL BASIC =-\-= PROJEKTE =-\-= NEU =-\Easy Unpacker\Easy-Rar-Unpacker\EasyUnpacker\bin\Debug\SharpCompress.pdb
+D:\-= VISUAL BASIC =-\-= PROJEKTE =-\-= NEU =-\Easy Unpacker\Easy-Rar-Unpacker\EasyUnpacker\obj\Debug\Easy Unpacker.vbprojResolveAssemblyReference.cache
+D:\-= VISUAL BASIC =-\-= PROJEKTE =-\-= NEU =-\Easy Unpacker\Easy-Rar-Unpacker\EasyUnpacker\obj\Debug\Interop.Shell32.dll
+D:\-= VISUAL BASIC =-\-= PROJEKTE =-\-= NEU =-\Easy Unpacker\Easy-Rar-Unpacker\EasyUnpacker\obj\Debug\Easy Unpacker.vbproj.ResolveComReference.cache
+D:\-= VISUAL BASIC =-\-= PROJEKTE =-\-= NEU =-\Easy Unpacker\Easy-Rar-Unpacker\EasyUnpacker\obj\Debug\EasyUnpacker.Mainform.resources
+D:\-= VISUAL BASIC =-\-= PROJEKTE =-\-= NEU =-\Easy Unpacker\Easy-Rar-Unpacker\EasyUnpacker\obj\Debug\EasyUnpacker.Resources.resources
+D:\-= VISUAL BASIC =-\-= PROJEKTE =-\-= NEU =-\Easy Unpacker\Easy-Rar-Unpacker\EasyUnpacker\obj\Debug\Easy Unpacker.vbproj.GenerateResource.cache
+D:\-= VISUAL BASIC =-\-= PROJEKTE =-\-= NEU =-\Easy Unpacker\Easy-Rar-Unpacker\EasyUnpacker\obj\Debug\Easy Unpacker.vbproj.CoreCompileInputs.cache
+D:\-= VISUAL BASIC =-\-= PROJEKTE =-\-= NEU =-\Easy Unpacker\Easy-Rar-Unpacker\EasyUnpacker\obj\Debug\Easy Unpacker.vbproj.CopyComplete
+D:\-= VISUAL BASIC =-\-= PROJEKTE =-\-= NEU =-\Easy Unpacker\Easy-Rar-Unpacker\EasyUnpacker\obj\Debug\Easy Rar Unpacker.exe
+D:\-= VISUAL BASIC =-\-= PROJEKTE =-\-= NEU =-\Easy Unpacker\Easy-Rar-Unpacker\EasyUnpacker\obj\Debug\Easy Rar Unpacker.xml
+D:\-= VISUAL BASIC =-\-= PROJEKTE =-\-= NEU =-\Easy Unpacker\Easy-Rar-Unpacker\EasyUnpacker\obj\Debug\Easy Rar Unpacker.pdb
