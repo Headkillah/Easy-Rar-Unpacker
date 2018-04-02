@@ -4,10 +4,10 @@
   <FormLocationX>451</FormLocationX>
   <FormLocationY>273</FormLocationY>
   <ExtractSame>false</ExtractSame>
-  <ExtractFullPath>true</ExtractFullPath>
-  <Overwrite>true</Overwrite>
+  <ExtractFullPath>false</ExtractFullPath>
+  <Overwrite>false/Overwrite>
   <LastSourcePath>
-    <string>D:\-= 1TEST =-\OHNE Pfadangabe</string>
+    <string></string>
   </LastSourcePath>
-  <LastDestPath>D:\-= 1EXTRACTING TESTORDNER =-</LastDestPath>
+  <LastDestPath></LastDestPath>
 </Preferences>
