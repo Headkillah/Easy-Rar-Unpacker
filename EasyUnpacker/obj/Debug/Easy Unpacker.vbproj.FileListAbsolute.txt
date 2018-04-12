@@ -59,3 +59,20 @@ D:\-= VISUAL BASIC =-\-= PROJEKTE =-\-= NEU =-\Easy Unpacker\Easy-Rar-Unpacker\E
 D:\-= VISUAL BASIC =-\-= PROJEKTE =-\-= NEU =-\Easy Unpacker\Easy-Rar-Unpacker\EasyUnpacker\obj\Debug\Easy Rar Unpacker.exe
 D:\-= VISUAL BASIC =-\-= PROJEKTE =-\-= NEU =-\Easy Unpacker\Easy-Rar-Unpacker\EasyUnpacker\obj\Debug\Easy Rar Unpacker.xml
 D:\-= VISUAL BASIC =-\-= PROJEKTE =-\-= NEU =-\Easy Unpacker\Easy-Rar-Unpacker\EasyUnpacker\obj\Debug\Easy Rar Unpacker.pdb
+C:\Users\cvogel\Source\Repos\Easy-Rar-Unpacker\EasyUnpacker\bin\Debug\Easy Rar Unpacker.exe.config
+C:\Users\cvogel\Source\Repos\Easy-Rar-Unpacker\EasyUnpacker\bin\Debug\Easy Rar Unpacker.exe
+C:\Users\cvogel\Source\Repos\Easy-Rar-Unpacker\EasyUnpacker\bin\Debug\Easy Rar Unpacker.pdb
+C:\Users\cvogel\Source\Repos\Easy-Rar-Unpacker\EasyUnpacker\bin\Debug\Easy Rar Unpacker.xml
+C:\Users\cvogel\Source\Repos\Easy-Rar-Unpacker\EasyUnpacker\bin\Debug\SharpCompress.dll
+C:\Users\cvogel\Source\Repos\Easy-Rar-Unpacker\EasyUnpacker\bin\Debug\SharpCompress.pdb
+C:\Users\cvogel\Source\Repos\Easy-Rar-Unpacker\EasyUnpacker\obj\Debug\Easy Unpacker.vbprojResolveAssemblyReference.cache
+C:\Users\cvogel\Source\Repos\Easy-Rar-Unpacker\EasyUnpacker\obj\Debug\Interop.Shell32.dll
+C:\Users\cvogel\Source\Repos\Easy-Rar-Unpacker\EasyUnpacker\obj\Debug\Easy Unpacker.vbproj.ResolveComReference.cache
+C:\Users\cvogel\Source\Repos\Easy-Rar-Unpacker\EasyUnpacker\obj\Debug\EasyUnpacker.Mainform.resources
+C:\Users\cvogel\Source\Repos\Easy-Rar-Unpacker\EasyUnpacker\obj\Debug\EasyUnpacker.Resources.resources
+C:\Users\cvogel\Source\Repos\Easy-Rar-Unpacker\EasyUnpacker\obj\Debug\Easy Unpacker.vbproj.GenerateResource.cache
+C:\Users\cvogel\Source\Repos\Easy-Rar-Unpacker\EasyUnpacker\obj\Debug\Easy Unpacker.vbproj.CoreCompileInputs.cache
+C:\Users\cvogel\Source\Repos\Easy-Rar-Unpacker\EasyUnpacker\obj\Debug\Easy Unpacker.vbproj.CopyComplete
+C:\Users\cvogel\Source\Repos\Easy-Rar-Unpacker\EasyUnpacker\obj\Debug\Easy Rar Unpacker.exe
+C:\Users\cvogel\Source\Repos\Easy-Rar-Unpacker\EasyUnpacker\obj\Debug\Easy Rar Unpacker.xml
+C:\Users\cvogel\Source\Repos\Easy-Rar-Unpacker\EasyUnpacker\obj\Debug\Easy Rar Unpacker.pdb

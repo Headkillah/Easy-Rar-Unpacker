@@ -1,13 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Preferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Language>English</Language>
-  <FormLocationX>451</FormLocationX>
-  <FormLocationY>273</FormLocationY>
+  <FormLocationX>275</FormLocationX>
+  <FormLocationY>180</FormLocationY>
   <ExtractSame>false</ExtractSame>
   <ExtractFullPath>false</ExtractFullPath>
-  <Overwrite>false/Overwrite>
-  <LastSourcePath>
-    <string></string>
-  </LastSourcePath>
-  <LastDestPath></LastDestPath>
+  <Overwrite>false</Overwrite>
+  <LastSourcePath />
+  <LastDestPath />
 </Preferences>

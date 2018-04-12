@@ -49,7 +49,6 @@ Partial Class Mainform
         Me.grpLog = New System.Windows.Forms.GroupBox()
         Me.grpArcInf = New System.Windows.Forms.GroupBox()
         Me.Label4 = New System.Windows.Forms.Label()
-        Me.pbArchiveProgress = New EasyUnpacker.CustomProgressBar()
         Me.lblVolume = New System.Windows.Forms.Label()
         Me.Label7 = New System.Windows.Forms.Label()
         Me.grpScanFolders = New System.Windows.Forms.GroupBox()
@@ -65,6 +64,8 @@ Partial Class Mainform
         Me.MenuStrip1 = New System.Windows.Forms.MenuStrip()
         Me.mnuChangeLang = New System.Windows.Forms.ToolStripMenuItem()
         Me.Process1 = New System.Diagnostics.Process()
+        Me.ToolTip1 = New System.Windows.Forms.ToolTip(Me.components)
+        Me.pbArchiveProgress = New EasyUnpacker.CustomProgressBar()
         Me.ContextMenuStrip1.SuspendLayout()
         Me.grpLog.SuspendLayout()
         Me.grpArcInf.SuspendLayout()
@@ -313,14 +314,6 @@ Partial Class Mainform
         Me.Label4.TabIndex = 42
         Me.Label4.Text = "Extraction Status:"
         '
-        'pbArchiveProgress
-        '
-        Me.pbArchiveProgress.ForeColor = System.Drawing.Color.AliceBlue
-        Me.pbArchiveProgress.Location = New System.Drawing.Point(151, 197)
-        Me.pbArchiveProgress.Name = "pbArchiveProgress"
-        Me.pbArchiveProgress.Size = New System.Drawing.Size(242, 17)
-        Me.pbArchiveProgress.TabIndex = 41
-        '
         'lblVolume
         '
         Me.lblVolume.AutoSize = True
@@ -469,6 +462,14 @@ Partial Class Mainform
         Me.Process1.StartInfo.UserName = ""
         Me.Process1.SynchronizingObject = Me
         '
+        'pbArchiveProgress
+        '
+        Me.pbArchiveProgress.ForeColor = System.Drawing.Color.AliceBlue
+        Me.pbArchiveProgress.Location = New System.Drawing.Point(151, 197)
+        Me.pbArchiveProgress.Name = "pbArchiveProgress"
+        Me.pbArchiveProgress.Size = New System.Drawing.Size(242, 17)
+        Me.pbArchiveProgress.TabIndex = 41
+        '
         'Mainform
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -544,4 +545,5 @@ Partial Class Mainform
     Friend WithEvents MenuStrip1 As MenuStrip
     Friend WithEvents mnuChangeLang As ToolStripMenuItem
     Friend WithEvents Process1 As Process
+    Friend WithEvents ToolTip1 As ToolTip
 End Class

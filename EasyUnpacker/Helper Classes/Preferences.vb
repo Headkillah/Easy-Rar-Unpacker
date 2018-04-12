@@ -113,7 +113,7 @@ Public Class Preferences
     End Property
     Private m_Overwrite As Boolean
 
-    'Last Source Archive Path
+    'Last Source Archive Path(s)
     Property LastSourcePath() As List(Of String)
         Get
             Return m_LastSourcePath
